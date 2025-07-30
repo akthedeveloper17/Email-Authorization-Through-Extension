@@ -18,9 +18,9 @@ In addition to the web app, the project includes an innovative component that re
 <figcaption>Here is the Extension added on My Extensions Folder </figcaption>
 
 <img width="1362" height="603" alt="image" src="https://github.com/user-attachments/assets/51b6abf8-241d-44c5-8f0e-2f8b9d6414be" />
-<figcaption>This is the Email used as sample for scanning</figcaption>
+<figcaption>This is the Email used as sample for scanning.</figcaption>
 
 
-<figcaption>Below is the working of Extension on Emails using Scan Email Button. </figcaption>
+<figcaption> And Below is the working of Extension on Emails using Scan Email Button. </figcaption>
 <img width="1364" height="643" alt="image" src="https://github.com/user-attachments/assets/d49bcfa9-8bc3-4ad0-8860-36643d214bdf" />
 
