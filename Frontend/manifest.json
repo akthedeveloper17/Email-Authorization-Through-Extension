@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Gmail Email Auth Scanner",
+  "version": "3.0",
+  "description": "Scans open Gmail emails and checks authenticity via ML backend.",
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": ["http://localhost:5000/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://mail.google.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "48": "icon.png"
+  }
+}
